@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    background: #4be2ec;
+    margin-top: 31.19px;
+    margin-left: 61.26px;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    display: flex;
+    margin: 8.74% 
+}
+.top-menu{
+    display: flex;
+    width: 715.55px;
+    height: 26px;
+    justify-content: center;
+    margin-top: 18px;
+}
+ul{
+    display: flex;
+    margin: 0px;
+    font-family: Orbitron;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+    margin-left: 302.22px;
+}
+li{
+    margin: 0px 30px;
+    font-weight: 400;
+}
+.cart{
+    position:absolute;
+    background-image: url(cart.png);
+    width: 30.79px;
+    height: 32px;
+}
